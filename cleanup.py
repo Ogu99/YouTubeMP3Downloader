@@ -1,5 +1,5 @@
 import shutil
 
-MP4_PATH = 'C:\\Users\\Ogu\\Desktop\\Youtube Downloader\\mp4'
+MP4_PATH = '' #Here was originally a path
 
 shutil.rmtree(MP4_PATH, ignore_errors=True)

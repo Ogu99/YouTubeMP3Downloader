@@ -4,7 +4,7 @@ from os import path
 import shutil
 import os
 
-HARD_CODED_PATH = 'C:\\Users\\Ogu\\Desktop\\Youtube Downloader'
+HARD_CODED_PATH = '' #Here was originally a path
 MP4_PATH = HARD_CODED_PATH + '\\mp4'
 MP3_PATH = HARD_CODED_PATH + '\\mp3'
 
